@@ -4,4 +4,4 @@ This Python program utilizes Tkinter for the graphical user interface, os for fi
  (    (   | |   | |   | | |   <   __/ (   | |   | (   |\__ \\__ \ 
 \___|\___/  .__/ \__, |_|_|_|\_\\___|\__,_|_.__/ \___/ ____/____/ 
            _|
-This tool streamlines the process of transferring data to an external drive, making file management more accessible.  Feel free to contribute, report issues, or enhance the functionality of this tool
+This tool streamlines the process of transferring data to an external drive, making file management more accessible.  Feel free to contribute, report issues, or enhance the functionality of this tools
